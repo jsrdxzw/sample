@@ -5843,4 +5843,9 @@ input {
 .panel {
   margin-top: 50px; }
 
+#logout {
+  cursor: default; }
+  #logout:hover {
+    background-color: transparent; }
+
 /*# sourceMappingURL=app.css.map */
